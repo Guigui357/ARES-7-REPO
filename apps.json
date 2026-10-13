@@ -2,9 +2,7 @@
   "name": "ARES 7 Repo",
   "subtitle": "Custom iOS Applications",
   "description": "My personal repository for ARES-7 in AltStore.",
-  "iconURL": "",
-  "headerURL": "",
-  "website": "https://github.com",
+  "website": "https://github.com/guigui357/ARES-7",
   "apps": [
     {
       "name": "ARES-7",
