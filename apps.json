@@ -3,16 +3,18 @@
   "subtitle": "Custom iOS Applications",
   "description": "My personal repository for ARES-7 in AltStore.",
   "iconURL": "",
-  "website": "https://github.com/Guigui357/ARES-7",
+  "headerURL": "",
+  "website": "https://github.com",
   "apps": [
     {
       "name": "ARES-7",
-      "subtitle": "ARES-7.",
-      "description": "ARES-7, your new helpful assistant",
       "bundleIdentifier": "com.example.ares7Mobile",
       "developerName": "Guigui357",
+      "subtitle": "ARES-7.",
+      "localizedDescription": "ARES-7, your new helpful assistant",
       "iconURL": "",
       "tintColor": "#007AFF",
+      "screenshotURLs": [],
       "versions": [
         {
           "version": "1.0.0",
@@ -22,8 +24,7 @@
           "size": 0,
           "minOSVersion": "15.0"
         }
-      ],
-      "screenshotURLs": []
+      ]
     }
   ]
 }
