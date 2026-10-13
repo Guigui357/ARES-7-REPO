@@ -1,0 +1,28 @@
+{
+  "$schema": "https://altstore.io",
+  "name": "ARES 7 Repo",
+  "subtitle": "Custom iOS Applications",
+  "description": "My personal repository for ARES-7 in AltStore.",
+  "website": "https://github.com/Guigui357/ARES-7",
+  "apps": [
+    {
+      "name": "ARES-7",
+      "subtitle": "ARES-7."
+      "description": "ARES-7, your new helpful assistant",
+      "bundleIdentifier": "com.guigui357.ares7",
+      "developerName": "Guigui357",
+      "tintColor": "#007AFF",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-13T13:48:00Z",
+          "localizedDescription": "Initial release.",
+          "downloadURL": "https://raw.githubusercontent.com/Guigui357/ARES-7-REPO/refs/heads/main/Payload.ipa",
+          "size": 0,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "screenshotURLs": []
+    }
+  ]
+}
