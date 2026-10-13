@@ -9,7 +9,7 @@
       "name": "ARES-7",
       "subtitle": "ARES-7."
       "description": "ARES-7, your new helpful assistant",
-      "bundleIdentifier": "com.guigui357.ares7",
+      "bundleIdentifier": "com.example.ares7Mobile",
       "developerName": "Guigui357",
       "tintColor": "#007AFF",
       "versions": [
